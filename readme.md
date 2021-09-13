@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/Advansify/advansify.github.io/master/keymap.png)
+![](https://advansify.se/keymap.png)
