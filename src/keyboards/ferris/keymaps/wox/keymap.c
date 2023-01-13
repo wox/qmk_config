@@ -45,7 +45,7 @@ void matrix_scan_user(void) {
       SEND_STRING("martin@woxneryd.com");
     }
 	
-	SEQ_ONE_KEY(KC_M) {
+	SEQ_ONE_KEY(KC_N) {
       SEND_STRING("Martin Woxneryd");
     }
   }
